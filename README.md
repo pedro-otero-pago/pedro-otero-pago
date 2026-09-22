@@ -1,6 +1,9 @@
 ### Hi, I'm Pedro 👋
 
-Third-year Artificial Intelligence student at the University of A Coruña (UDC), building toward internships in the European tech market.
+Third-year Artificial Intelligence student at the University of A Coruña (UDC).
+Interested in software/AI internship opportunities in tech.
+
+📫 [pedrooteropago@gmail.com](mailto:pedrooteropago@gmail.com)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -39,3 +42,11 @@ Coursework from UDC's AI degree — implementations built from scratch, most goi
 | [UDC-Algorithms-DataDictionary](https://github.com/pedro-otero-pago/UDC-Algorithms-DataDictionary) | Hash table dictionary (open/closed addressing, 3 probing strategies) for synonym lookup |
 | [UDC-IngSoftware-KonLuPago](https://github.com/pedro-otero-pago/UDC-IngSoftware-KonLuPago) | Housing-price regression desktop app (Python/Tkinter), built from scratch as a group |
 
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedro-otero-pago&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-otero-pago&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
