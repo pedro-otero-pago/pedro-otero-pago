@@ -9,6 +9,7 @@ Interested in software/AI internship opportunities in tech.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -23,7 +24,7 @@ Self-directed, end-to-end projects — problem selection, data, modeling, and de
 - **[cinema-etl-pipeline](https://github.com/pedro-otero-pago/cinema-etl-pipeline)** — Fully automated ETL pipeline that scrapes local cinema showtimes, cleans and transforms the data, and persists it to a database. 17 tests, daily automation via GitHub Actions.
 - **[churn-prediction-api](https://github.com/pedro-otero-pago/churn-prediction-api)** — Customer churn prediction service: EDA, a compared and justified choice of model (GradientBoostingClassifier), served through a FastAPI app with input validation and tests, containerized with Docker.
 
-*(More on the way — a local RAG document assistant is next.)*
+- **[local-rag-assistant](https://github.com/pedro-otero-pago/local-rag-assistant)** — Local RAG assistant for document Q&A: PDF chunking, local embeddings and generation via Ollama (no external API calls), a deduplicated ChromaDB vector store, and a Streamlit chat interface.
 
 ---
 
