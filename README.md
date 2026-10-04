@@ -26,6 +26,8 @@ Self-directed, end-to-end projects — problem selection, data, modeling, and de
 
 - **[local-rag-assistant](https://github.com/pedro-otero-pago/local-rag-assistant)** — Local RAG assistant for document Q&A: PDF chunking, local embeddings and generation via Ollama (no external API calls), a deduplicated ChromaDB vector store, and a Streamlit chat interface.
 
+*(More on the way — an interactive EDA dashboard is next.)*
+
 ---
 
 ## Academic Projects
