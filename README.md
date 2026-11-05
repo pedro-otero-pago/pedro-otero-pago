@@ -27,6 +27,7 @@ Currently looking for **software / AI internship** opportunities.
 **Data & Machine Learning**<br/>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white" alt="ChromaDB" />
 
@@ -57,7 +58,9 @@ Customer churn prediction service: EDA, a compared and justified model choice (G
 Fully local RAG assistant for document Q&A: PDF chunking, embeddings and generation via Ollama (no external API calls), a deduplicated ChromaDB vector store and a Streamlit chat interface.<br/>
 `Python` `Ollama` `ChromaDB` `Streamlit` `pytest`
 
-> 🔜 **Coming next:** an interactive EDA dashboard on Spain's hourly energy demand, generation and weather.
+### [📊 interactive-eda-dashboard](https://github.com/pedro-otero-pago/interactive-eda-dashboard)
+Interactive dashboard on Spain's hourly energy demand, generation and weather (2015-2018), with a gradient boosting model that predicts next-day electricity prices and beats a "same hour yesterday" baseline by about 10% in MAE on a held-out year. Time-aware data cleaning and 38 tests.<br/>
+`Python` `pandas` `Plotly` `Streamlit` `scikit-learn` `pytest`
 
 ---
 
